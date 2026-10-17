@@ -3,12 +3,14 @@
 免费非官方 AI 拟人恋爱冒险 Galgame。故障启动器把“我”扔进一连串奇怪的游戏世界；九位旅伴陆续入队，冒险、日常、修罗场和情人节都在路上。
 
 **Windows 试玩下载：[前往 Releases](https://github.com/XplayerMY/brave-dont-romance-teammates/releases)**
+**MacOS 试玩下载：[前往 Releases](https://github.com/EthanZhou1201/brave-dont-romance-teammates-macOS/releases)**
 
 在 Release 的 Assets 中下载 BraveDontRomanceTeammates-v2.0.41-Windows-x64.zip，完整解压后双击游戏 exe；不需要安装 Godot。GitHub 自动生成的 Source code 压缩包不是游戏安装包。
+在 Release 的 Assets 中下载 BraveDontRomanceTeammates-v2.0.41-MacOS.zip，完整解压后双击游戏 exe；不需要安装 Godot。GitHub 自动生成的 Source code 压缩包不是游戏安装包。
 
 ## 本仓库
 
-本仓库用于发布试玩包、版本说明和问题反馈，不包含制作工作区、私人账号记录或全部游戏源文件。不为整部作品及所有素材授予开源或再分发许可；Godot、字体及第三方组件各自的许可随包提供。
+本仓库仅为原作者项目https://github.com/XplayerMY/brave-dont-romance-teammates的MacOS版本
 
 ## 内容与状态
 
